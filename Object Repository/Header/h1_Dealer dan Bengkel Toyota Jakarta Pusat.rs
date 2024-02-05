@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Dealer dan Bengkel Toyota Jakarta Pusat</name>
+   <tag></tag>
+   <elementGuidId>33616ca5-4e46-45f9-bb56-a5b07bb1ebe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>969263f6-f8b5-4209-b5f5-54fb98254e15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xl md:text-2xl font-bold mb-3</value>
+      <webElementGuid>a96d1aa3-01c6-445f-a59f-3f39d733a2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dealer dan Bengkel Toyota Jakarta Pusat</value>
+      <webElementGuid>6eaa9a2c-0349-4f43-af1b-c5dce8e9e891</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;container py-5 xl:px-0&quot;]/h1[@class=&quot;text-xl md:text-2xl font-bold mb-3&quot;]</value>
+      <webElementGuid>70298d92-b90d-4789-9759-c06f62655dba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/h1</value>
+      <webElementGuid>3e7d3520-e754-4ee6-bea4-7615f51b63ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>2cc45586-2f71-48c9-a70d-246d53a8153c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Dealer dan Bengkel Toyota Jakarta Pusat' or . = 'Dealer dan Bengkel Toyota Jakarta Pusat')]</value>
+      <webElementGuid>3052be9a-0de4-4bec-b296-740f8850bbdc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Daftar Bengkel dan Dealer Toyota Auto2000 Terdekat</name>
+   <tag></tag>
+   <elementGuidId>73888bb0-139e-41ac-9f7e-11ab97112135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[5]/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>bf00837e-a6e8-4e1b-9937-b3f34219394e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-bold text-reliableBlack uppercase mb-[10px] lg:text-2xl lg:mb-5</value>
+      <webElementGuid>bb97ffe1-17ae-4029-a04e-4f645dfa7592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Bengkel dan Dealer Toyota Auto2000 Terdekat</value>
+      <webElementGuid>4bcdbc26-7baa-4406-ac4d-51ef27df4b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;py-[30px] border-t-4 lg:py-20&quot;]/div[@class=&quot;container&quot;]/h2[@class=&quot;text-base font-bold text-reliableBlack uppercase mb-[10px] lg:text-2xl lg:mb-5&quot;]</value>
+      <webElementGuid>f424ebe1-1fc2-4d04-a7f4-d2bcd0cc352a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[5]/div/h2</value>
+      <webElementGuid>7f7d9212-ea62-46dd-8d9d-66f85ecbe706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div/h2</value>
+      <webElementGuid>b5dd8ffc-e6c7-469b-96da-158a6bf26663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Daftar Bengkel dan Dealer Toyota Auto2000 Terdekat' or . = 'Daftar Bengkel dan Dealer Toyota Auto2000 Terdekat')]</value>
+      <webElementGuid>54c78dc0-8419-4308-bc6b-7f49d13df310</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

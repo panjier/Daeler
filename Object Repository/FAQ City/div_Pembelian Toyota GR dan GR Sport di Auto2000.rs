@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pembelian Toyota GR dan GR Sport di Auto2000</name>
+   <tag></tag>
+   <elementGuidId>4cfb4414-9880-460a-9b58-b63a347ea65c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='branch-faq']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.w-full.flex.justify-between.items-center > #branch-faq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b73ab883-1c25-45e8-9e0e-c075dd9a45f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch-faq</value>
+      <webElementGuid>72567904-822a-406c-bbe1-8e5f8dd46f19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center w-full</value>
+      <webElementGuid>52c1d583-0713-4bc4-b562-a4450d6946a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pembelian Toyota GR dan GR Sport di Auto2000 </value>
+      <webElementGuid>d5294052-2e0c-4fb0-9a9d-0b228b2208e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[7]/div[@class=&quot;border-t-4&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/button[@class=&quot;block w-full border-b border-reliableBlack10&quot;]/details[@class=&quot;py-[18px] lg:px-5&quot;]/summary[@class=&quot;flex justify-start items-center -my-[18px] py-[13px] md:py-[18px] text-sm text-start font-medium text-reliableBlack cursor-pointer lg:text-base&quot;]/div[@class=&quot;w-full flex justify-between items-center&quot;]/div[@id=&quot;branch-faq&quot;]</value>
+      <webElementGuid>1b35a4b2-8737-4d49-abfd-f376d3a11ba5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='branch-faq']</value>
+      <webElementGuid>dd7c9bc1-741a-4ace-b588-ba58a4bc0677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[7]/div/section/div/button/details/summary/div/div</value>
+      <webElementGuid>498af894-0e51-4fb1-8e2a-65d1f52fcc38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//summary/div/div</value>
+      <webElementGuid>f39d55de-8bfb-4f50-ae15-5418be21757a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'branch-faq' and (text() = 'Pembelian Toyota GR dan GR Sport di Auto2000 ' or . = 'Pembelian Toyota GR dan GR Sport di Auto2000 ')]</value>
+      <webElementGuid>cc079d69-22b2-461f-b9b2-b50d63bb8c04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

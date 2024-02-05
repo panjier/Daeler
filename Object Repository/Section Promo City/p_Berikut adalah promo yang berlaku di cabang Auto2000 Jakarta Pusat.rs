@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Berikut adalah promo yang berlaku di cabang Auto2000 Jakarta Pusat</name>
+   <tag></tag>
+   <elementGuidId>282ebaaf-c397-47c5-bd74-bd574f037880</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[3]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>38b52a17-11ee-4ffe-9558-8b1a3a30a8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs font-medium leading-relaxed text-reliableBlack mb-5 lg:text-base</value>
+      <webElementGuid>27c1b024-d086-4281-83f4-a4c60f07e6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berikut adalah promo yang berlaku di cabang Auto2000 Jakarta Pusat</value>
+      <webElementGuid>81a7ff8b-238a-479f-8a06-28d11e6ad993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-8 container&quot;]/p[@class=&quot;text-xs font-medium leading-relaxed text-reliableBlack mb-5 lg:text-base&quot;]</value>
+      <webElementGuid>f489ae67-73fd-45b5-a190-2c5bfc998e04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]/p</value>
+      <webElementGuid>edba3631-7952-489c-b233-ba78a73d7f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/p</value>
+      <webElementGuid>419f3fc8-ab91-4b97-ba08-3ab37f2bde40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Berikut adalah promo yang berlaku di cabang Auto2000 Jakarta Pusat' or . = 'Berikut adalah promo yang berlaku di cabang Auto2000 Jakarta Pusat')]</value>
+      <webElementGuid>a58ed0f0-b7e5-4573-8779-f41c9dc61771</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

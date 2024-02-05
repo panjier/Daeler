@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Event Auto2000 Jakarta Pusat</name>
+   <tag></tag>
+   <elementGuidId>153d486e-6f27-434e-8ba9-d1d2afe56806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[4]/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b826a014-e4bf-4676-bc79-91a83b1278e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-bold uppercase mb-2 text-reliableBlack lg:text-2xl</value>
+      <webElementGuid>4bf07952-e4e4-4776-a7ec-17868cb8fdde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event Auto2000 Jakarta Pusat</value>
+      <webElementGuid>03748f00-9fe1-4ee3-b983-e8938c11b405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;py-6 border-t-4 lg:py-10&quot;]/div[@class=&quot;px-4 container&quot;]/div[@class=&quot;flex justify-between lg:items-center gap-2&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/h2[@class=&quot;text-base font-bold uppercase mb-2 text-reliableBlack lg:text-2xl&quot;]</value>
+      <webElementGuid>dedb9454-3216-41ec-b9db-d2a3ac5da3f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[4]/div/div/div/h2</value>
+      <webElementGuid>debaa922-5f50-4366-9c6c-fe615f02c088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/h2</value>
+      <webElementGuid>79aa5a36-a88b-4f34-9324-6c6f7bb9eab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Event Auto2000 Jakarta Pusat' or . = 'Event Auto2000 Jakarta Pusat')]</value>
+      <webElementGuid>0d4d12c6-d429-4f59-ad84-18abfce3f2c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

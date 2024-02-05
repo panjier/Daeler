@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cabang (Opsional)_w-17px h-17px border rounded-none bg-inherit border-supportiveRed hoverbg-reliableBlack10</name>
+   <tag></tag>
+   <elementGuidId>36d3e060-2f8a-41cc-af44-781122de2094</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='branch-cb-term']/label/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0c1be7f-6752-401a-9202-e9d0032bce0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10 </value>
+      <webElementGuid>2fc83814-ee07-421c-bafb-20b9e70884b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;branch-cb-term&quot;)/label[@class=&quot;flex gap-4 text-sm font-normal items-center cursor-pointer&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;w-[17px] h-[17px] border rounded-none bg-inherit border-supportiveRed hover:bg-reliableBlack10&quot;]</value>
+      <webElementGuid>cba87481-cf76-430b-8155-b5fae1ed7d75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='branch-cb-term']/label/div/div</value>
+      <webElementGuid>8e938fe5-3eab-44e1-bf76-50ea8a48a2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div/div</value>
+      <webElementGuid>67b688da-cb80-4337-9b6b-5d6f687a8240</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section Inquiry</name>
+   <tag></tag>
+   <elementGuidId>fac4c12d-f04f-4377-9e1c-94a0b306b6fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>76c3366b-46e5-47ec-aad6-b7632745ae8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pt-7 pb-8 border-t-4 border-reliableBlack5 lg:py-12 lg:border-t-4</value>
+      <webElementGuid>fc1e3fc6-d93c-4348-baaf-bcaaeb0fe030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Minta PenawaranDapatkan penawaran khusus produk Auto2000 Terdekat untuk AndaNama LengkapNomor Handphone+62Model MobilWaktu Perkiraan Pembelian MobilCabang (Opsional)Saya telah membaca dan menyetujui Syarat dan Ketentuan Auto2000Data pribadi Anda aman bersama kami. Kebijakan PrivasiKirim</value>
+      <webElementGuid>fc2f5fc7-9c1a-4e79-8cba-1d3f399876ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;pt-7 pb-8 border-t-4 border-reliableBlack5 lg:py-12 lg:border-t-4&quot;]</value>
+      <webElementGuid>38de095a-9698-496c-b6b9-580e9f9b1b71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[6]</value>
+      <webElementGuid>00b63417-6416-417d-b7c2-9a71d806099a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]</value>
+      <webElementGuid>4657c918-56cb-40b4-988c-8389bc870fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Minta PenawaranDapatkan penawaran khusus produk Auto2000 Terdekat untuk AndaNama LengkapNomor Handphone+62Model MobilWaktu Perkiraan Pembelian MobilCabang (Opsional)Saya telah membaca dan menyetujui Syarat dan Ketentuan Auto2000Data pribadi Anda aman bersama kami. Kebijakan PrivasiKirim' or . = 'Minta PenawaranDapatkan penawaran khusus produk Auto2000 Terdekat untuk AndaNama LengkapNomor Handphone+62Model MobilWaktu Perkiraan Pembelian MobilCabang (Opsional)Saya telah membaca dan menyetujui Syarat dan Ketentuan Auto2000Data pribadi Anda aman bersama kami. Kebijakan PrivasiKirim')]</value>
+      <webElementGuid>70d372df-bff1-41c5-9d50-edb6c8826bf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

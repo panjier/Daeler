@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_FAQ Jakarta Bagian Pusat</name>
+   <tag></tag>
+   <elementGuidId>4b357806-4c2f-46dc-99db-ca6e73b63479</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='branch-faq']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#branch-faq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>3516d967-3ba7-49b9-af51-6096074fd085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch-faq</value>
+      <webElementGuid>6d0d7b78-2863-48be-b25a-b9324bb91bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base mb-3 text-reliableBlack font-bold uppercase lg:text-2xl</value>
+      <webElementGuid>04f19b4c-c108-4ac3-9d1a-23e06f0d137b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>FAQ Jakarta Bagian Pusat</value>
+      <webElementGuid>b143533e-17d6-4064-baca-38104e596ad1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[7]/div[@class=&quot;border-t-4&quot;]/section[@class=&quot;my-10 lg:my-20&quot;]/div[@class=&quot;container xl:px-0&quot;]/h2[@id=&quot;branch-faq&quot;]</value>
+      <webElementGuid>698aa798-5466-4264-ade3-a1cbb435ad39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='branch-faq']</value>
+      <webElementGuid>bb935d5d-0610-4b40-8c1e-5faa5fa1eeea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[7]/div/section/div/h2</value>
+      <webElementGuid>48e09a7b-f676-4d1b-b469-07496c42240f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/section/div/h2</value>
+      <webElementGuid>5bb0bc74-dc05-45c6-9c78-537bcc2e1b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'branch-faq' and (text() = 'FAQ Jakarta Bagian Pusat' or . = 'FAQ Jakarta Bagian Pusat')]</value>
+      <webElementGuid>dffa69e0-099f-4400-8ab4-0de8d1c51631</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

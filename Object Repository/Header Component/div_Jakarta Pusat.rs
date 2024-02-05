@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jakarta Pusat</name>
+   <tag></tag>
+   <elementGuidId>bf3633d9-6122-4027-bc42-e8e866aa7ca0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-geo']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-geo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>451cba48-7aa6-40dd-bdd2-c9115bdc8a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-geo</value>
+      <webElementGuid>5f7b0f3d-c8fa-4bf4-afb7-dc49b732d14b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex gap-1 items-center md:border-b md:border-reliableBlack10 lg:border-none cursor-pointer h-10 justify-center px-[6px]</value>
+      <webElementGuid>a856641b-dc96-4798-86b7-8ef41b8edb1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jakarta Pusat</value>
+      <webElementGuid>8830859d-66e5-4130-88d7-2871275b5ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/nav[@class=&quot;sticky top-0 h-10 lg:h-11 w-full z-[55] bg-white md:border-b border-[#dadce0] hidden md:block&quot;]/div[@class=&quot;container px-0 flex items-center justify-end&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;relative bg-white&quot;]/div[@id=&quot;nav-geo&quot;]</value>
+      <webElementGuid>08da37f5-75bb-4748-8bde-97b2b77d32e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='nav-geo']</value>
+      <webElementGuid>44bad318-05ad-4bf8-879a-18e0abd238cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/nav/div/div/div/div</value>
+      <webElementGuid>4deb2134-179c-4de5-8915-cf92ea8781ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div/div/div</value>
+      <webElementGuid>7330a4ac-72bb-49f9-90d0-8fa1d10be5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'nav-geo' and (text() = 'Jakarta Pusat' or . = 'Jakarta Pusat')]</value>
+      <webElementGuid>d2843c8c-c3cd-4809-81d6-a453af544884</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

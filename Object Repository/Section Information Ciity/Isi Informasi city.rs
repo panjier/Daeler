@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Isi Informasi city</name>
+   <tag></tag>
+   <elementGuidId>15ed3aba-4af1-4685-b0d7-518aa6507977</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[5]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b57c1326-1d83-49ff-b47b-f26480128d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prose content-description text-xs lg:text-base max-h-[96px] overflow-hidden</value>
+      <webElementGuid>7dfdf3d1-dd16-4232-8b46-fe17a77c89e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat datang di dealer dan bengkel Toyota Jakarta Pusat cabang resmi Auto2000. Tim kami siap untuk membantu Anda dalam menemukan pilihan mobil yang tepat hingga memberikan layanan purna jual yang maksimal. Sebagai cabang resmi dealer dan bengkel Toyota Jakarta Pusat, kami menyediakan berbagai layanan yang bisa memper</value>
+      <webElementGuid>c4fe2072-73ce-4d18-9924-394ec2432f1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;py-[30px] border-t-4 lg:py-20&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;prose content-description text-xs lg:text-base max-h-[96px] overflow-hidden&quot;]</value>
+      <webElementGuid>38524112-80a1-4b6d-aa3c-11fcf6bec583</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[5]/div/div</value>
+      <webElementGuid>11c39ebb-7ed5-42d2-85c1-efdfc8744d6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div/div</value>
+      <webElementGuid>6b22be6f-12ca-4831-a5b1-732cc3d39624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Selamat datang di dealer dan bengkel Toyota Jakarta Pusat cabang resmi Auto2000. Tim kami siap untuk membantu Anda dalam menemukan pilihan mobil yang tepat hingga memberikan layanan purna jual yang maksimal. Sebagai cabang resmi dealer dan bengkel Toyota Jakarta Pusat, kami menyediakan berbagai layanan yang bisa memper' or . = 'Selamat datang di dealer dan bengkel Toyota Jakarta Pusat cabang resmi Auto2000. Tim kami siap untuk membantu Anda dalam menemukan pilihan mobil yang tepat hingga memberikan layanan purna jual yang maksimal. Sebagai cabang resmi dealer dan bengkel Toyota Jakarta Pusat, kami menyediakan berbagai layanan yang bisa memper')]</value>
+      <webElementGuid>54f86a6a-d40a-4fae-b39c-cbd268ff70d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

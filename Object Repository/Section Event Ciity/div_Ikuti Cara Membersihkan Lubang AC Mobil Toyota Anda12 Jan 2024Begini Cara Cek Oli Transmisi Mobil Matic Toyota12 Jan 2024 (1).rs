@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ikuti Cara Membersihkan Lubang AC Mobil Toyota Anda12 Jan 2024Begini Cara Cek Oli Transmisi Mobil Matic Toyota12 Jan 2024 (1)</name>
+   <tag></tag>
+   <elementGuidId>17536439-3c59-41bf-98d5-03cbd7b648c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[4]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4fcd2c1-2c22-4abb-aa48-067b39c07093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 md:gap-6</value>
+      <webElementGuid>baf6e442-dbc6-4303-9889-110ebf122207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ikuti Cara Membersihkan Lubang AC Mobil Toyota Anda12 Jan 2024Begini Cara Cek Oli Transmisi Mobil Matic Toyota12 Jan 2024</value>
+      <webElementGuid>9835e8dd-8c92-40a8-bf33-3c5c5318aef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;py-6 border-t-4 lg:py-10&quot;]/div[@class=&quot;px-4 container&quot;]/div[@class=&quot;grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 md:gap-6&quot;]</value>
+      <webElementGuid>0b9973cf-4283-42f5-8fc3-aacd02720c5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[4]/div/div[2]</value>
+      <webElementGuid>710aa743-62ed-469c-8b27-6c1ffa3c7ced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div[2]</value>
+      <webElementGuid>48ac8f84-26b7-4fea-989e-7d300e796eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Ikuti Cara Membersihkan Lubang AC Mobil Toyota Anda12 Jan 2024Begini Cara Cek Oli Transmisi Mobil Matic Toyota12 Jan 2024' or . = 'Ikuti Cara Membersihkan Lubang AC Mobil Toyota Anda12 Jan 2024Begini Cara Cek Oli Transmisi Mobil Matic Toyota12 Jan 2024')]</value>
+      <webElementGuid>b0e8e666-786e-4338-89e4-b1fe23dbcb4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

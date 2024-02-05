@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_5.05 (Dari 5 Ulasan)</name>
+   <tag></tag>
+   <elementGuidId>77d58eb5-6c24-4fa4-8d7e-b3dd13ad2757</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[8]/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd0eeb7c-1d3a-4d1d-a2ff-e082a5a8e34c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[12px] leading-[16px] text-black90  break-words overflow-hidden lg:text-lg </value>
+      <webElementGuid>8d1a545c-a49a-4970-aa69-3a642a5c53f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>5.0/5 (Dari 5 Ulasan)</value>
+      <webElementGuid>4b08aec9-6913-4b1c-bf47-49b226f96f75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;text-reliableBlack bg-reliableBlack5 mx-4 md:mx-0 px-5 md:px-0 py-3 md:py-16&quot;]/div[@class=&quot;md:container&quot;]/div[@class=&quot;flex justify-between mb-5&quot;]/div[1]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;text-[12px] leading-[16px] text-black90  break-words overflow-hidden lg:text-lg&quot;]</value>
+      <webElementGuid>6635a523-fa21-4a47-89ca-2cac8161f33b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[8]/div/div/div/div[2]/div</value>
+      <webElementGuid>0655feb7-0f48-4c7a-8ca2-eb5a98809d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[8]/div/div/div/div[2]/div</value>
+      <webElementGuid>68200387-53d4-4ee8-9df9-93c8499d1e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '5.0/5 (Dari 5 Ulasan)' or . = '5.0/5 (Dari 5 Ulasan)')]</value>
+      <webElementGuid>6b02e17a-0851-46e9-85b6-1299d1e88df3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

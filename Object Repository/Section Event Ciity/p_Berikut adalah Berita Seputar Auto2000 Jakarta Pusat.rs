@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Berikut adalah Berita Seputar Auto2000 Jakarta Pusat</name>
+   <tag></tag>
+   <elementGuidId>a75a8172-22b1-4615-9818-20e502ffa2ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[4]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f1aba11a-e7eb-4386-9fc3-8753b24c2d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xs text-reliableBlack mb-2 lg:text-base lg:mb-6</value>
+      <webElementGuid>20b137cb-a132-4432-825d-806a2a04afba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berikut adalah Berita Seputar Auto2000 Jakarta Pusat</value>
+      <webElementGuid>1e6784a6-b88a-4d52-b800-29b2300f2285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;py-6 border-t-4 lg:py-10&quot;]/div[@class=&quot;px-4 container&quot;]/p[@class=&quot;text-xs text-reliableBlack mb-2 lg:text-base lg:mb-6&quot;]</value>
+      <webElementGuid>c789c134-cd43-4843-9aa3-62684cef0eca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[4]/div/p</value>
+      <webElementGuid>f528f5f3-9960-45fa-a112-f3680ecd6efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/p</value>
+      <webElementGuid>89496a10-fad3-47f3-89f2-ab687ab07049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Berikut adalah Berita Seputar Auto2000 Jakarta Pusat' or . = 'Berikut adalah Berita Seputar Auto2000 Jakarta Pusat')]</value>
+      <webElementGuid>af8f298a-48ea-422a-b7df-6342b667cf96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

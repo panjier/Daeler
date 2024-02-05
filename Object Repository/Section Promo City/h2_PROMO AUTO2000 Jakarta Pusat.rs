@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_PROMO AUTO2000 Jakarta Pusat</name>
+   <tag></tag>
+   <elementGuidId>c1f0c981-44e1-4d8b-af06-70d9751a1fce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[3]/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>aa746f6d-b914-4ff8-bd0f-06d34bfdd756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-base font-bold uppercase text-reliableBlack mb-2 lg:text-2xl</value>
+      <webElementGuid>d5a81bd9-c1f1-442d-bd2f-af6e2870f1d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PROMO AUTO2000 Jakarta Pusat</value>
+      <webElementGuid>14780f78-59b4-41b6-8637-92cac2f75c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-8 container&quot;]/div[@class=&quot;flex justify-between lg:items-center gap-2&quot;]/div[1]/h2[@class=&quot;text-base font-bold uppercase text-reliableBlack mb-2 lg:text-2xl&quot;]</value>
+      <webElementGuid>507ba13b-78a3-4f34-9078-c2dcb66c89bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]/div/div/h2</value>
+      <webElementGuid>0ad5c9ed-dc9d-4004-8de1-196efd8c4eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>bc922ce0-d142-439d-9281-23a2599ca655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'PROMO AUTO2000 Jakarta Pusat' or . = 'PROMO AUTO2000 Jakarta Pusat')]</value>
+      <webElementGuid>c0a955b4-97f9-4a4b-a9b1-4ce6e5db46d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Menampilkan 11 Cabang di Jakarta Pusat</name>
+   <tag></tag>
+   <elementGuidId>b1724bdf-c42a-4847-a277-c2e31babef51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ca45ff3-fa5d-426a-ad4a-5af7ebf5d58d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-[14px] leading-[20px] text-black90  break-words overflow-hidden </value>
+      <webElementGuid>2dad757c-f24d-4a6f-bbf3-6a6fdd9fce4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menampilkan 11 Cabang di Jakarta Pusat</value>
+      <webElementGuid>081f3e2c-8c99-4640-a0d8-b161b066bfd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;hidden md:block py-4 bg-reliableBlack3 md:mb-6&quot;]/div[@class=&quot;container xl:px-0&quot;]/div[@class=&quot;text-[14px] leading-[20px] text-black90  break-words overflow-hidden&quot;]</value>
+      <webElementGuid>2dc15373-25f6-4759-9972-f26dd1bb9cca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[4]/div/div</value>
+      <webElementGuid>36861235-f147-459b-938d-346b935a96ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div[4]/div/div</value>
+      <webElementGuid>71187147-1543-4d64-a710-8f98a54010ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Menampilkan 11 Cabang di Jakarta Pusat' or . = 'Menampilkan 11 Cabang di Jakarta Pusat')]</value>
+      <webElementGuid>a566cf10-cddf-488a-ba5d-e4b7a66db9cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

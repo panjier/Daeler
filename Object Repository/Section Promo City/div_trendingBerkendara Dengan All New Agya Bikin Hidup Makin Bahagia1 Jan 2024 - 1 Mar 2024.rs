@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_trendingBerkendara Dengan All New Agya Bikin Hidup Makin Bahagia1 Jan 2024 - 1 Mar 2024</name>
+   <tag></tag>
+   <elementGuidId>d791a1a2-c4f8-4bd6-a199-810ec2b11913</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[3]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e4f1565-e529-49e0-8b98-a9af359d2630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 md:gap-6</value>
+      <webElementGuid>33e33420-d1ca-453d-be8f-5ccff6c43b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>trendingBerkendara Dengan All New Agya Bikin Hidup Makin Bahagia!1 Jan 2024 - 1 Mar 2024</value>
+      <webElementGuid>9276ec97-5671-473b-8d19-f51ac9786486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;my-8 container&quot;]/div[@class=&quot;grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 md:gap-6&quot;]</value>
+      <webElementGuid>e6659dbd-246a-4673-a336-efd52321cd63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[3]/div[2]</value>
+      <webElementGuid>5fc8347d-91dc-4583-a9b6-00037adcfa47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div[2]</value>
+      <webElementGuid>e6654f69-2d4d-462a-9968-98e23f3e34d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'trendingBerkendara Dengan All New Agya Bikin Hidup Makin Bahagia!1 Jan 2024 - 1 Mar 2024' or . = 'trendingBerkendara Dengan All New Agya Bikin Hidup Makin Bahagia!1 Jan 2024 - 1 Mar 2024')]</value>
+      <webElementGuid>f3b4e3b5-27c1-4387-8349-598df00b6978</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

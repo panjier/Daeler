@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DKI Jakarta</name>
+   <tag></tag>
+   <elementGuidId>d48abf31-6951-4956-bf06-ca98b1f00a56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div[2]/section/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>faa6197d-276c-4ef0-b40f-fbbaa86830d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-2</value>
+      <webElementGuid>b7769215-5ec1-479a-9fdb-b7ca5b88e55a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DKI Jakarta</value>
+      <webElementGuid>dd5ea422-c09a-43b5-95f6-1a7535cb3b57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/div[@class=&quot;z-50 md:pt-5 md:pb-4 md:border-b md:bg-white&quot;]/section[@class=&quot;bg-reliableBlack3 md:bg-white&quot;]/div[@class=&quot;flex flex-col items-center relative justify-between md:flex-row container xl:px-0&quot;]/div[@class=&quot;md:gap-4 lg:gap-8 hidden md:flex&quot;]/div[@class=&quot;flex items-center gap-2&quot;]</value>
+      <webElementGuid>ebb0e83c-e0be-4b71-b891-62d96f6ca752</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section/div/div/div</value>
+      <webElementGuid>98488f8c-80c5-451b-b32a-21c1f14535d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div/div/div</value>
+      <webElementGuid>bec0552e-a9a7-4331-9fd3-66c484d3d2e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'DKI Jakarta' or . = 'DKI Jakarta')]</value>
+      <webElementGuid>95ec774f-8e27-4016-a404-48bead48279a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

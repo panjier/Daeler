@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Minta PenawaranDapatkan penawaran khusus produk Auto2000 Terdekat untuk Anda</name>
+   <tag></tag>
+   <elementGuidId>189bdaf4-2683-4558-8426-b3813b9dfff9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[6]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3fc25e47-9a14-48da-a76d-ba4200c1a034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-5 px-4 pb-2 lg:text-center lg:mb-12</value>
+      <webElementGuid>54793e83-fb40-4956-804e-8981fba8124d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Minta PenawaranDapatkan penawaran khusus produk Auto2000 Terdekat untuk Anda</value>
+      <webElementGuid>165aad49-8233-40ab-a184-956eb1e9ebc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;pt-7 pb-8 border-t-4 border-reliableBlack5 lg:py-12 lg:border-t-4&quot;]/div[@class=&quot;mb-5 px-4 pb-2 lg:text-center lg:mb-12&quot;]</value>
+      <webElementGuid>7c9b7e36-6895-468e-8699-1f900cdc38ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[6]/div</value>
+      <webElementGuid>5f3d1010-6fb5-4184-af45-ead61eba51a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]/div</value>
+      <webElementGuid>78ee7933-d279-487d-be82-82f37012aa3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Minta PenawaranDapatkan penawaran khusus produk Auto2000 Terdekat untuk Anda' or . = 'Minta PenawaranDapatkan penawaran khusus produk Auto2000 Terdekat untuk Anda')]</value>
+      <webElementGuid>9923feb7-0d3b-47d3-be21-9043709ac213</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

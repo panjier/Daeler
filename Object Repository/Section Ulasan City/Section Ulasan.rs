@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Section Ulasan</name>
+   <tag></tag>
+   <elementGuidId>7b6fa2e5-fb64-40ab-9b8b-a417a1aa6a50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/section[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>acb96584-86a3-41cd-be85-b0911a2405b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-reliableBlack bg-reliableBlack5 mx-4 md:mx-0 px-5 md:px-0 py-3 md:py-16</value>
+      <webElementGuid>f7293276-9817-4f51-afcd-4335a6c4e540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>APA KATA PEMBELI?5.0/5 (Dari 5 Ulasan)Fidyah Putri R&quot;Aplikasinya bagus, informasi terkait mobilnya lengkap dan terdapat fitur banding mobil. Cocok untuk orang sibuk yang lagi nyari mobil. Fitur-fiturnya juga lengkap, khususnya fitur home service yang sangat berguna kalau mobil rusak dan ga bisa ke bengkel. Chatbotnya juga keren dan sangat membantu.&quot;5Prasetyo&quot;Avanza 2023 sangat nyaman digunakan&quot;5Siska Septiani&quot;Pelayanan nya sangat baik orangnya ramah2 saya sangan nyaman sekali sembari menunggu di sediakan snack juga. Tempat bersih ada ac nya juga.. lancar terus yaaa&quot;5lihat lebih banyak</value>
+      <webElementGuid>08e0f272-ea03-477d-9ac0-efcf82f90ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;bg-white&quot;]/section[@class=&quot;text-reliableBlack bg-reliableBlack5 mx-4 md:mx-0 px-5 md:px-0 py-3 md:py-16&quot;]</value>
+      <webElementGuid>c7fd2b3e-389b-4fbc-ae24-c0f515f30271</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/section[8]</value>
+      <webElementGuid>16deeffa-53dd-4397-9ea6-b52a5bdb1d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[8]</value>
+      <webElementGuid>efb6cf95-752a-4552-94f9-37df95c9d5d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'APA KATA PEMBELI?5.0/5 (Dari 5 Ulasan)Fidyah Putri R&quot;Aplikasinya bagus, informasi terkait mobilnya lengkap dan terdapat fitur banding mobil. Cocok untuk orang sibuk yang lagi nyari mobil. Fitur-fiturnya juga lengkap, khususnya fitur home service yang sangat berguna kalau mobil rusak dan ga bisa ke bengkel. Chatbotnya juga keren dan sangat membantu.&quot;5Prasetyo&quot;Avanza 2023 sangat nyaman digunakan&quot;5Siska Septiani&quot;Pelayanan nya sangat baik orangnya ramah2 saya sangan nyaman sekali sembari menunggu di sediakan snack juga. Tempat bersih ada ac nya juga.. lancar terus yaaa&quot;5lihat lebih banyak' or . = 'APA KATA PEMBELI?5.0/5 (Dari 5 Ulasan)Fidyah Putri R&quot;Aplikasinya bagus, informasi terkait mobilnya lengkap dan terdapat fitur banding mobil. Cocok untuk orang sibuk yang lagi nyari mobil. Fitur-fiturnya juga lengkap, khususnya fitur home service yang sangat berguna kalau mobil rusak dan ga bisa ke bengkel. Chatbotnya juga keren dan sangat membantu.&quot;5Prasetyo&quot;Avanza 2023 sangat nyaman digunakan&quot;5Siska Septiani&quot;Pelayanan nya sangat baik orangnya ramah2 saya sangan nyaman sekali sembari menunggu di sediakan snack juga. Tempat bersih ada ac nya juga.. lancar terus yaaa&quot;5lihat lebih banyak')]</value>
+      <webElementGuid>68fa5253-5943-47ec-bb22-a2981428ab1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
